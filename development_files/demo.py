@@ -14,9 +14,9 @@ import xml.etree.ElementTree as ET
 
 import generateTrajectory as traj
 
-SEND_IP = '10.100.48.101'
+SEND_IP = '169.254.251.174'
 SEND_PORT = 5005
-RECEIVE_IP = '10.100.48.101'
+RECEIVE_IP = '169.254.251.174'
 RECEIVE_PORT = 49100 
 BUFFER_SIZE = 1024
 

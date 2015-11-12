@@ -15,7 +15,7 @@ Known bugs: -
 import socket
 
 
-TCP_IP = '10.100.48.101'
+TCP_IP = '169.254.251.174'
 TCP_PORT = 5005
 BUFFER_SIZE = 1024
 
